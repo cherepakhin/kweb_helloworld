@@ -1,5 +1,6 @@
-This folder contains a simple "Hello World" demo. You can start the server
-by running `gradlew run`. You can then view the app at http://localhost:16097
+В бесконечном цикле, с периодом в 1 секунду, выводятся сообщения "Hello world 1,2,...".
+
+Запуск:
 
 ````shell
 $ echo $JAVA_HOME
@@ -8,6 +9,7 @@ $ echo $JAVA_HOME
 ./gradlew run
 ````
 
-В бесконечном цикле, с периодом в 1 секунду, выводятся сообщения "Hello world 1,2,...".
+Открыть http://localhost:16097
+
 
 ![screen.png](doc/screen.png)
